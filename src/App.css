@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'BrainlyExtraBold';
+    src: url('./fonts/Metropolis-ExtraBold.otf') format('opentype') ;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'Brainly';
+    src: url('./fonts/Metropolis-Medium.otf') format('opentype');
+}
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: 'Brainly';
+}
